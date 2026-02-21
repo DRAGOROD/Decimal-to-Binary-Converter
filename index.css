@@ -88,7 +88,7 @@ h2 {
   min-height: 80px;
   margin-block-start: 20px;
   padding: 15px;
-  border: 2px solid var(--orange);
+  border: 2px solid #02590f;
   border-radius: 2px;
 }
 
@@ -99,7 +99,7 @@ h2 {
   gap: 1rem;
   margin-block-end: 1rem;
   min-height: 40vh;
-  border: 2px dashed var(--orange);
+  border: 2px dashed #02590f;
   padding: 1rem;
 }
 
@@ -126,4 +126,5 @@ h2 {
   .number-input {
     width: unset;
   }
+
 }
