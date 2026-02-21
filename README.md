@@ -1,6 +1,8 @@
 It is a simple web-based decimal to binary converter built using JavaScript recursion. It not only converts decimal numbers into binary but also visually demonstrates how recursion works through a call stack animation for a specific input.
 The animation helps illustrate how recursive function calls are pushed to and popped from the call stack step by step.
 
+**⭐Project Link:-** https://dragorod.github.io/Decimal-to-Binary-Converter/
+
 **🧰 Toolkits Used**
 
 HTML5
